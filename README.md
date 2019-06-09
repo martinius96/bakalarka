@@ -1,1 +1,9 @@
 # bakalarka
+3.3V
+RELE OVLADACI PIN
+SCL
+RX
+TX
+SDA
+GND
+GND
